@@ -3,16 +3,13 @@
 </div>  
   
 
-## <div align="left">Hi, I'm Jenson. Student and aspiring software engineer 👨‍💻</div>  
+## <div align="left">Hi, I'm Jenson. Software developer and aspiring open source contributor 👨‍💻</div>  
 <tr>
 
-- 🔭 I’m currently working on my B.S. in Computer Science at UCLA  
+- 🔭 Recently got my B.S. degree in Computer Science at UCLA
   
 
-- 🌱 I’m currently learning Scala and Apache Spark  
-  
-
-- ❓ Ask me about anything related to Python and MERN stack  
+- 🌱 I’m currently learning Scala and Apache Spark
   
 
 <br/>  
